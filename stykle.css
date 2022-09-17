@@ -1,0 +1,19 @@
+h1 {
+    color:brown;
+   text-align: center;
+   font-size: 50px; 
+   border: 2px solid white;
+   width:9vw;
+}
+
+body {
+    background-color:black;
+    color:aqua;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    color:mediumblue
+}
+
