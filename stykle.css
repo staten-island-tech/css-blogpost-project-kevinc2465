@@ -8,7 +8,7 @@ h1 {
 
 body {
     background-color:black;
-    color:aqua;
+    color:chartreuse
 }
 
 h2{
@@ -16,4 +16,26 @@ h2{
     font-size: 30px;
     color:mediumblue
 }
+p{
+    font-size: 20px;
+}
+.main-header{
+    color:darkgoldenrod; 
+}
+.main-paragraph{
+    color:aqua;
+}
+
+.main-picture{
+    margin-top: 60px;
+    width: 800px;
+    height: 500px;
+}
+
+.secondary-picture{
+    width:800px;
+    height:480px;
+    margin-left: 1000px;
+    margin-top: -520px;
+  }
 
