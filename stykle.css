@@ -8,7 +8,8 @@ h1 {
 
 body {
     background-color:black;
-    color:chartreuse
+    color:chartreuse;
+    font-family: 'Quicksand', sans-serif;
 }
 
 h2{
