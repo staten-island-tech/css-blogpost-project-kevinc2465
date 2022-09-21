@@ -2,7 +2,7 @@ body {
   background-color: black;
   color: white;
   font-size: 20px;
-  font-family: 'Signika Negative', sans-serif;
+  font-family: "Signika Negative", sans-serif;
 }
 
 *,
@@ -20,52 +20,58 @@ h1 {
 h2 {
   font-size: 40px;
   margin-top: 100px;
-  margin-left:180px; 
+  margin-left: 180px;
   padding: 8px;
-  color:lawngreen
+  color: lawngreen;
 }
 
-.background{
-  background-color: darkgreen; 
+a {
+  font-size: 30px;
+  color: lightseagreen;
+  text-align: center;
+}
+
+.background {
+  background-color: darkgreen;
   margin-left: 100px;
-  margin-right: 1350px; 
+  margin-right: 1350px;
 }
 
-img{
-  height:300px;
+img {
+  height: 300px;
   width: 300px;
   margin-left: 65px;
 }
 
-.main-paragraph{
-  margin-bottom:10px;
+.main-paragraph {
+  margin-bottom: 10px;
 }
 
-.second-thing{
-  color:aqua;
+.second-thing {
+  color: aqua;
   font-size: 40px;
-  margin-top: -610px;
-  margin-left:160px; 
+  margin-top: -680px;
+  margin-left: 160px;
   padding: 8px;
 }
 
-.secondary-background{
-  background-color:blue; 
+.secondary-background {
+  background-color: blue;
   margin-left: 700px;
-  margin-right: 750px; 
-  margin-bottom:-1390px;
+  margin-right: 750px;
+  margin-bottom: -1390px;
 }
 
-.third-thing{
-  color:gold;
+.third-thing {
+  color: gold;
   font-size: 40px;
-  margin-top: 800px;
-  margin-left:140px; 
+  margin-top: 750px;
+  margin-left: 140px;
   padding: 8px;
 }
 
-.third-background{
-  background-color:rgba(173, 152, 33, 0.811); 
+.third-background {
+  background-color: rgba(173, 152, 33, 0.811);
   margin-left: 1300px;
-  margin-right: 170px; 
+  margin-right: 170px;
 }
