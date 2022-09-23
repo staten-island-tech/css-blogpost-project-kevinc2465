@@ -33,8 +33,7 @@ a {
 
 .background {
   background-color: darkgreen;
-  margin-left: 100px;
-  margin-right: 1350px;
+  width: 25vw;
 }
 
 img {
@@ -50,16 +49,14 @@ img {
 .second-thing {
   color: aqua;
   font-size: 40px;
-  margin-top: -680px;
   margin-left: 160px;
   padding: 8px;
 }
 
 .secondary-background {
   background-color: blue;
-  margin-left: 700px;
-  margin-right: 750px;
-  margin-bottom: -1390px;
+  width: 25vw;
+  margin: 8px auto;
 }
 
 .third-thing {
@@ -72,6 +69,6 @@ img {
 
 .third-background {
   background-color: rgba(173, 152, 33, 0.811);
-  margin-left: 1300px;
-  margin-right: 170px;
+  width: 25vw;
+  margin: 10% auto;
 }
