@@ -28,13 +28,16 @@ h2 {
 a {
   font-size: 30px;
   color: lightseagreen;
-  text-align: center;
+  padding-left: 30%;
 }
 
 .background {
   background-color: darkgreen;
   width: 25vw;
+  margin-left: 37%;
 }
+
+
 
 img {
   height: 300px;
@@ -56,19 +59,18 @@ img {
 .secondary-background {
   background-color: blue;
   width: 25vw;
-  margin: 8px auto;
+  margin: 1% auto;
 }
 
 .third-thing {
   color: gold;
   font-size: 40px;
-  margin-top: 750px;
-  margin-left: 140px;
   padding: 8px;
+  width: 30vw;
 }
 
 .third-background {
   background-color: rgba(173, 152, 33, 0.811);
-  width: 25vw;
-  margin: 10% auto;
+  width: 23vw;
+  margin: 100px auto;
 }
