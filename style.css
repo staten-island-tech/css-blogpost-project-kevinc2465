@@ -1,76 +1,78 @@
-body {
-  background-color: black;
-  color: white;
-  font-size: 20px;
-  font-family: "Signika Negative", sans-serif;
-}
+  body {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: "Signika Negative", sans-serif;
+  }
 
-*,
-body,
-html {
-  box-sizing: border-box;
-}
+  *,
+  body,
+  html {
+    box-sizing: border-box;
+  }
 
-h1 {
-  color: white;
-  font-size: 50px;
-  text-align: center;
-}
+  h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+  }
 
-h2 {
-  font-size: 40px;
-  margin-top: 100px;
-  margin-left: 180px;
-  padding: 8px;
-  color: lawngreen;
-}
+  h2 {
+    font-size: 40px;
+      margin-top: 100px;
+      margin-left: 180px;
+    padding: 8px;
+    color: lawngreen;
+  }
 
-a {
-  font-size: 30px;
-  color: lightseagreen;
-  padding-left: 30%;
-}
+  a {
+    font-size: 30px;
+    color: lightseagreen;
+    padding-left: 30%;
+  }
 
-.background {
-  background-color: darkgreen;
-  width: 25vw;
-  margin-left: 37%;
-}
+  .background {
+    background-color: darkgreen;
+    width: 30vw;
+    margin-left: 35%;
+  }
 
+  .picture{
+    height: 250px;
+    width: 250px;
+  }
+  img {
+    height: 250px;
+    width: 250px;
+    margin-left: 65px;
+  }
 
+  .main-paragraph {
+    margin-bottom: 10px;
+  }
 
-img {
-  height: 300px;
-  width: 300px;
-  margin-left: 65px;
-}
+  .second-thing {
+    color: aqua;
+    font-size: 40px;
+    margin-left: 160px;
+    padding: 8px;
+  }
 
-.main-paragraph {
-  margin-bottom: 10px;
-}
+  .secondary-background {
+    background-color: blue;
+    width: 30vw;
+    margin: 1% auto;
+  }
 
-.second-thing {
-  color: aqua;
-  font-size: 40px;
-  margin-left: 160px;
-  padding: 8px;
-}
+  .third-thing {
+    color: gold;
+    font-size: 40px;
+    padding: 8px;
+    width: 30vw;
+  }
 
-.secondary-background {
-  background-color: blue;
-  width: 25vw;
-  margin: 1% auto;
-}
-
-.third-thing {
-  color: gold;
-  font-size: 40px;
-  padding: 8px;
-  width: 30vw;
-}
-
-.third-background {
-  background-color: rgba(173, 152, 33, 0.811);
-  width: 23vw;
-  margin: 100px auto;
-}
+  .third-background {
+    background-color: rgba(173, 152, 33, 0.811);
+    width: 30vw;
+    margin: 100px auto;
+  }
